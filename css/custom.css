@@ -1,0 +1,12 @@
+img {
+  vertical-align: middle;
+}
+.img-responsive-medium,
+.thumbnail > img,
+.thumbnail a > img,
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  display: block;
+  max-width: 50%;
+  height: auto;
+}
