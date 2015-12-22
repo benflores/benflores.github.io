@@ -9,4 +9,10 @@ img {
   display: block;
   max-width: 50%;
   height: auto;
+  border-radius: 50%
+}
+
+.img-circle-medium {
+  border-radius: 50%;
+   max-width: 50%;
 }
