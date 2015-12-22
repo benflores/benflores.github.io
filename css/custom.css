@@ -13,6 +13,6 @@ img {
 }
 
 .img-circle-medium {
-  border-radius: 50%;
-   max-width: 50%;
+  border-radius: 7%;
+   max-width: 45%;
 }
