@@ -18,5 +18,9 @@ img {
 }
 
 .a-correct-color {
-    color: #233140;
+    color: #fff;
+}
+
+.a-correct-color:hover {
+    color: #2c3e50;
 }
